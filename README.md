@@ -1,5 +1,3 @@
-# Exodus Wallet 2024 | The Ultimate Crypto Wallet for All Your Assets  
-
 <div align="center">
   <h1>Exodus Wallet 2024</h1>
 
