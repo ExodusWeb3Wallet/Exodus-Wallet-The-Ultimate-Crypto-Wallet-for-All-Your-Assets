@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Exodus Wallet 2024</h1>
+  <h1>Exodus Wallet</h1>
 
   [![Downloads](https://img.shields.io/badge/Downloads-2M%2B-blue?style=for-the-badge&logo=download&logoColor=white)](#)
   [![Version](https://img.shields.io/badge/Version-23.5.1-green?style=for-the-badge)](#)
