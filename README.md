@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Exodus Wallet</h1>
+  <img src="https://i.imgur.com/AdE8mPd.jpeg" alt="Exodus Wallet Logo" style="max-width:100%; height:auto; border-radius:10px;">
+</div>
+
+<div align="center">
 
   [![Downloads](https://img.shields.io/badge/Downloads-2M%2B-blue?style=for-the-badge&logo=download&logoColor=white)](#)
   [![Version](https://img.shields.io/badge/Version-23.5.1-green?style=for-the-badge)](#)
@@ -16,9 +19,6 @@
 
 Exodus Wallet is a secure and versatile cryptocurrency wallet designed for beginners and seasoned investors alike. It supports a wide range of cryptocurrencies and offers an intuitive interface for managing your portfolio. With **integrated exchange features**, robust security, and multi-platform availability, Exodus is the perfect solution for anyone seeking a seamless crypto experience.  
 
-<div align="center">
-  <img src="https://i.imgur.com/AdE8mPd.jpeg" alt="Exodus Wallet Logo" style="max-width:100%; height:auto; border-radius:10px;">
-</div>
 
 ---
 
